@@ -16,6 +16,7 @@ public class PizzaController : ControllerBase
     [HttpGet]
     public ActionResult<List<Pizza>> GetAll() =>
         PizzaService.GetAll();
+
     // GET by Id action
     [HttpGet("{id}")]
     public ActionResult<Pizza> Get(int id)
@@ -27,6 +28,7 @@ public class PizzaController : ControllerBase
 
         return pizza;
     }
+
     // POST action
 
     // PUT action

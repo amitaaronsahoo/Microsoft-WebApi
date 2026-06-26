@@ -31,3 +31,4 @@ C:\Users\Amit Sahoo\RiderProjects\Microsoft-WebApi\ContosoPizza\obj\Debug\net10.
 C:\Users\Amit Sahoo\RiderProjects\Microsoft-WebApi\ContosoPizza\obj\Debug\net10.0\ContosoPizza.pdb
 C:\Users\Amit Sahoo\RiderProjects\Microsoft-WebApi\ContosoPizza\obj\Debug\net10.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\Amit Sahoo\RiderProjects\Microsoft-WebApi\ContosoPizza\obj\Debug\net10.0\ref\ContosoPizza.dll
+C:\Users\Amit Sahoo\RiderProjects\Microsoft-WebApi\ContosoPizza\obj\Debug\net10.0\ContosoPizza.sourcelink.json
